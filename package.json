@@ -1,0 +1,26 @@
+{
+  "name": "ed-mp",
+  "version": "0.1.0",
+  "description": "Event driven network event protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/edwardgower/ed-mp.git"
+  },
+  "keywords": [
+    "event",
+    "driven",
+    "network",
+    "events",
+    "protocol"
+  ],
+  "author": "Ed Gower <edwardgower@gmail.com> (http://edgower.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edwardgower/ed-mp/issues"
+  },
+  "homepage": "https://github.com/edwardgower/ed-mp"
+}
